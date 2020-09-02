@@ -2,7 +2,7 @@
 
 ![Image](https://anshjainpublic.s3.us-east-2.amazonaws.com/Banner4.png)
 
-I'm currently a Computer Science and Math double major at **The University of Texas at Austin**, with a minor in Economics. I'm looking for software engineering internships in either Spring or Summer 2021. I love playing music, playing video games, and organizing hackathons (contact me if you're interested in in sponsoring [HackTX](http://freetailhackers.com))! I also enjoy full-stack and cloud development, particularly with technologies like Flask, Spring Boot, ReactJS, and assorted AWS services. 
+I'm currently a Computer Science and Math double major at **The University of Texas at Austin**, with a minor in Economics. I'm looking for software engineering internships in either Spring or Summer 2021. I love playing music, playing video games, and organizing hackathons (contact me if you're interested in in sponsoring [HackTX](http://hacktx.com))! I also enjoy full-stack and cloud development, particularly with technologies like Flask, Spring Boot, ReactJS, and assorted AWS services. 
 
 ## Languages and Tools
 
@@ -27,6 +27,7 @@ I'm currently a Computer Science and Math double major at **The University of Te
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My First Virtual Convention Experience: HackCon](https://medium.com/@fuzzydice1232/mlh-hackcon-my-first-virtual-convention-experience-ac368aa87ff7)
 - [NLP: Neat Lil' Processes](https://chatbotslife.com/nlp-neat-lil-processes-5d5e16093e28)
 - [My Thoughts on "Weapons of Math Destruction"](https://medium.com/@fuzzydice1232/my-thoughts-on-cathy-oneil-s-weapons-of-math-destruction-3edf57385566)
 - [SummerHacks: Driving Engagement at Virtual Events](https://medium.com/@fuzzydice1232/summerhacks-driving-engagement-at-virtual-events-ba780192287c)
